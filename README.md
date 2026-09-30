@@ -1,1 +1,1 @@
-# data_cleaning_layoffs.sql
+# data_cleaning_layoffs.sql and Exploratory Data Analysis.sql
